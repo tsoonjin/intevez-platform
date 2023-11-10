@@ -1,5 +1,5 @@
 languageCode:           "en"
-title:                  "Flowbite Admin Dashboard"
+title:                  "Intevez: AI Rercuitment Platform"
 # baseURL:                "http://localhost:1313"
 baseURL:                "https://flowbite-admin-dashboard.vercel.app/"
 enableInlineShortcodes: true
